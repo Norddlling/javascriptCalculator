@@ -1,0 +1,12 @@
+#root {
+  height: 100vh;
+  min-width: 350px;
+}
+
+.card {
+  width: 350px;
+}
+
+#display {
+  height: 33px;
+}
